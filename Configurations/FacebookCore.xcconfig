@@ -28,6 +28,3 @@ SWIFT_VERSION = 2.3
 IPHONEOS_DEPLOYMENT_TARGET = 8.0
 
 INFOPLIST_FILE = $(SRCROOT)/Resources/Info.plist
-
-// Enable testability to make internal things visible with @testable import
-ENABLE_TESTABILITY = YES
